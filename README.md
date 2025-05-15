@@ -84,7 +84,8 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
-![alt text](img/msgqueue.png)
+![image](https://github.com/user-attachments/assets/d8a0f31c-45d5-4ea3-a1fb-600e5c46d80e)
+
 
 
 # RESULT:
